@@ -184,7 +184,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "A ver si as\xED consigue que el viejo le devuelva lo que le quit\xF3 el
-    otro d\xEDa y se caya un ratito."
+    otro d\xEDa y se calla un ratito."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ce9b60fbad9201d4087797f9bf701edc, type: 2}
   m_sharedMaterial: {fileID: 3983245452418228372, guid: ce9b60fbad9201d4087797f9bf701edc, type: 2}
